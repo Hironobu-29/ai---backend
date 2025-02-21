@@ -1,0 +1,19 @@
+RESTAURANT INFORMATION
+
+Opening Hours: 
+- Monday - Friday: 10:00 AM - 10:00 PM
+- Saturday & Sunday: 09:00 AM - 11:00 PM
+
+Reservations:
+- Hotline: 0123.456.789
+- Email: booking@restaurant.com
+
+Booking Policy:
+- Book at least 2 hours in advance
+- 30% deposit required for groups over 10 people
+- Cancellation must be made 4 hours before booking time
+
+Promotions:
+- 10% off total bill every Tuesday
+- Free dessert for groups of 4 or more
+- Birthday special: 20% off total bill 
